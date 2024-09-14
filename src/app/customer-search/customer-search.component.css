@@ -1,0 +1,24 @@
+.spacer {
+  flex: 1 1 auto;
+}
+ 
+.search-form {
+  display: grid;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 16px;
+}
+ 
+.button-group {
+  display: flex;
+  gap: 16px;
+}
+ 
+.results-info {
+  margin: 16px;
+}
+ 
+table {
+  width: 100%;
+  margin: 16px;
+}
